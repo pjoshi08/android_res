@@ -1,4 +1,4 @@
-Android Developer Tips: https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2
+######[Android Developer Tips](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2)
 Android Architecture Components: https://developer.android.com/topic/libraries/architecture/index.html
 App Development Companies: https://www.quora.com/What-are-the-best-specifically-Android-app-development-companies
 Firebase Remote config: https://firebase.google.com/docs/remote-config/
