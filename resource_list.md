@@ -1,12 +1,18 @@
 # Resource List
 
-## General
+## General:
 * **[Michal Bialas: Android Developer Tips](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2)**
 * **[Android Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html)**
 * **[App Development Companies](https://www.quora.com/What-are-the-best-specifically-Android-app-development-companies)**
 * **[Firebase Remote config](https://firebase.google.com/docs/remote-config/)**
 * **[Requesting App Permissions](https://developer.android.com/training/permissions/requesting.html)**
 * **[Hackr Tutorials](https://hackr.io/)**
+* **[Navigation Architecture Component](https://codelabs.developers.google.com/codelabs/android-navigation/#0)**
+* **[Android Architecture Components - Handling Lifecycles](https://developer.android.com/topic/libraries/architecture/lifecycle)**
+* **[Lifecycle Aware Components - Use Cases](https://developer.android.com/topic/libraries/architecture/lifecycle#use-cases)**
+* **[Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)**
+* **[Android Jetpack - Fetching Data](https://developer.android.com/jetpack/docs/guide#fetching_data)**
+
 
 App Usage: https://www.androidauthority.com/fact-or-fiction-android-apps-only-use-one-cpu-core-610352/
 Uplabs: https://www.uplabs.com/android
@@ -295,7 +301,7 @@ Google Developer Expert Process: https://www.quora.com/What-does-it-take-to-be-a
 
 
 
-Google Udacity Scholarship Challenge:
+## Google Udacity Scholarship Challenge:
 Resources:  https://docs.google.com/document/d/1NSe_7jyblSa3UYuD-cXCtXy6uqi_hXspP-NzRbq1F6E/edit 
 Git, github session recording: https://youtu.be/lXY02pZWR58
 App architecture and contribution walkthrough: https://drive.google.com/open?id=1qQ5xLGPA3huw-JVSEevwxwE33bSA2D-Q
@@ -311,7 +317,7 @@ Android Animation: https://www.youtube.com/watch?v=f4HILef0hDc
 Android Image Processing Algorithms: https://www.youtube.com/watch?v=Oa380QsuLsE 
 Image Filter: https://github.com/theshivamlko/ImageFilterAlogrithm 
 
-Books:
+## Books:
 Advanced Penetration Testing - Hacking the World's Most Secure Networks | PDF/EPUB | 6/6 MB | https://drive.google.com/open?id=0B-OpLAp8EyTfMy05SjhEaWpGODQ
 Black Hat Python | PDF/EPUB | 3/3 MB |
 https://drive.google.com/open?id=0B-OpLAp8EyTfbHY0dWVSVURMVE0
@@ -333,7 +339,7 @@ Violent Python - A Cookbook for Hackers, Forensic Analysts, Penetration Testers 
 Java: https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997
 
 
-Quizzes: 
+## Quizzes: 
 https://docs.google.com/forms/d/1UEACdHffVjkifOOYyLSn_g2EffkyF4CWn4E1lddvWMk/viewform?edit_requested=true 
 https://anddevindiascholars.slack.com/archives/C9MDB4AHL/p1521450887000369
 https://docs.google.com/forms/d/e/1FAIpQLSdZvML5b3Dfj8XWpi-SfVVkeheNauE2UFGYVQu5w8GxJgg60Q/viewform
@@ -344,39 +350,41 @@ https://github.com/Praneet460/Udacity-Scholars-Weekly-Challenges
 Udacity Scholarships:
 https://www.udacity.com/scholarships
 
-Slarck: https://slarck.com/WiTlpT/?k=gDyYiByc1tpKeo2Ohm9BZhJxuqXqUJVLADMmHKHG
+Slarck: 
+https://slarck.com/WiTlpT/?k=gDyYiByc1tpKeo2Ohm9BZhJxuqXqUJVLADMmHKHG
 
-APIs:
+## APIs:
 https://developer.edamam.com/edamam-nutrition-api
 Google Awareness API: https://developers.google.com/awareness/
 
-
-Publish App:
+## Publish App:
 https://praveen.io/was-google-play-checklist/
 https://medium.com/mindorks/android-app-release-checklist-for-the-production-launch-4095f46d04fa
 Publish apps with Android app bundle: https://www.youtube.com/watch?v=9D63S4ZRBls&feature=youtu.be
 
-Quiz App:
+## Quiz App:
 App Flow: https://projects.invisionapp.com/share/BPHUT69YG6A#/screens/294684583_Home_Screen_Dark_Theme_Final
 github: https://github.com/UdacityAndroidDevScholarship/quiz-app
 
-Extensions:
+## Extensions:
 https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-app-launcher-info-dialog
 https://developer.android.com/training/monitoring-device-state/battery-monitoring.html
 
-AAD:
+## AAD:
 https://medium.freecodecamp.org/google-certified-associate-android-developer-my-journey-381a8e514f3a
 https://medium.freecodecamp.org/google-certified-associate-android-developer-exam-walkthrough-ce09a039b29a
 https://medium.com/@multidots/how-to-clear-associate-android-developer-exam-ab3ae5d783b7
 https://github.com/Amejia481/Associate-Android-Developer-Certification/
 
-Icons:
+## Icons:
 https://www.youtube.com/watch?v=bD29KTVHht4
 https://www.flaticon.com/
 https://www.finder.com/
 https://www.iconfinder.com/
 
-Github Repos:
+## Github Repos:
+* **[Sunshine App with AAC](https://github.com/googlecodelabs/android-build-an-app-architecture-components/blob/arch-training-steps/app/src/main/java/com/example/android/sunshine/data/SunshineRepository.java)**
+
 https://medium.com/@akbarsha03/version-control-system-using-git-on-android-studio-a632eb00bea9 
 https://github.com/amlcurran/ShowcaseView
 https://github.com/Shashank02051997/FancyWalkthrough-Android?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6686
@@ -450,7 +458,9 @@ Developer Roadmap: https://github.com/kamranahmedse/developer-roadmap
 App Ideas: https://github.com/tastejs/awesome-app-ideas
 
 
-CV/Interview:
+## CV/Interview:
+* **[Recursive Staircase Problem - Amazon](https://www.youtube.com/watch?v=5o-kdjv7FD0)**
+
 https://uxdesign.cc/applying-user-centred-design-to-a-cv-8e1e7dadddd9
 https://android.jlelse.eu/i-had-10-android-interviews-during-the-last-two-years-heres-the-questions-plus-some-lessons-i-ve-cdc583dfbc65
 https://github.com/MindorksOpenSource/android-interview-questions
@@ -463,4 +473,5 @@ Open Source Projects:
 https://github.com/yhdesai/Maker-ToolBox-Android
 
 
-Terms Heard/Read: Retrofit, Volley, Picasso, dagger-2, RxJava, MVVM Architecture, Vector Images/Icons, Kotlin, GreenDAO, ROOM, JSON Parsing Lib(GSON, Jackson), XMPP, Java Socket for chat app, gsoup library, Glide Lib(Image Caching), OkHttp, SlimAdapter in RecyclerView, Flutter, Tensor Flow, WeakReference<>, FileObserver, Admob, Facebook Audience Network, InMobi, MoPub, Looper, ProGuard, Google Fuchsia, WebP Images, Screen lock view intent, Markdown, ItemTouchHelper, Butterknife, DataBinding, BottomSheetDialog, Handler, Fresco, Apache Cordova/Phonegap, Vysor, Prefekt, BeanShell, ViewPager Card Carousel, Leak Canary, Poly, Clean Architecture, Shared Element Transition(WebView), Vulkan Graphics API, Proguard Keep rules
+## Terms Heard/Read: 
+Retrofit, Volley, Picasso, dagger-2, RxJava, MVVM Architecture, Vector Images/Icons, Kotlin, GreenDAO, ROOM, JSON Parsing Lib(GSON, Jackson), XMPP, Java Socket for chat app, gsoup library, Glide Lib(Image Caching), OkHttp, SlimAdapter in RecyclerView, Flutter, Tensor Flow, WeakReference<>, FileObserver, Admob, Facebook Audience Network, InMobi, MoPub, Looper, ProGuard, Google Fuchsia, WebP Images, Screen lock view intent, Markdown, ItemTouchHelper, Butterknife, DataBinding, BottomSheetDialog, Handler, Fresco, Apache Cordova/Phonegap, Vysor, Prefekt, BeanShell, ViewPager Card Carousel, Leak Canary, Poly, Clean Architecture, Shared Element Transition(WebView), Vulkan Graphics API, Proguard Keep rules
