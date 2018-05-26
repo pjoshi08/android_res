@@ -12,20 +12,19 @@
 * **[Lifecycle Aware Components - Use Cases](https://developer.android.com/topic/libraries/architecture/lifecycle#use-cases)**
 * **[Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)**
 * **[Android Jetpack - Fetching Data](https://developer.android.com/jetpack/docs/guide#fetching_data)**
+* **[App Usage](https://www.androidauthority.com/fact-or-fiction-android-apps-only-use-one-cpu-core-610352/)**
+* **[Uplabs](https://www.uplabs.com/android)**
+* **[Dribbble](https://dribbble.com/tags/ANDROID)**
+* **[Android Studio Plugins](https://medium.com/mindorks/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7)**
+* **[Android Libraries 2015](https://infinum.co/the-capsized-eight/top-five-android-libraries-every-android-developer-should-know-about-v2015)**
+* **[Aritra Roy: Android Developer Tips](https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51)**
+* **[Firebase API](https://medium.com/google-developers/why-are-firebase-apis-asynchronous-callbacks-promises-tasks-e037a6654a93)**
+* **[Android SDK/Libraries](https://android.jlelse.eu/things-i-wish-i-knew-when-i-started-building-android-sdk-libraries-dba1a524d619)**
+* **[Android Studio & Git](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work?utm_source=Android+Weekly&utm_campaign=8cbf4cc857-androidweekly-297&utm_medium=email&utm_term=0_4eb677ad19-8cbf4cc857-337932037)**
+* **[Android & Security](http://sohailaziz05.blogspot.in/2014/10/asynctask-and-context-leaking.html)**
+* **[Android Studio Plugins with Gradle](https://medium.com/groupon-eng/developing-android-studio-plugins-with-gradle-7597d8825d76)**
+* **[A/B Testing With Firebase Remote Config](https://medium.com/@kapil.bakshi/deep-dive-into-a-b-testing-with-firebase-remote-config-6213e95bd024)**
 
-
-App Usage: https://www.androidauthority.com/fact-or-fiction-android-apps-only-use-one-cpu-core-610352/
-Uplabs: https://www.uplabs.com/android
-Dribbble: https://dribbble.com/tags/ANDROID
-Android Studio Plugins: https://medium.com/mindorks/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7
-Android Libraries 2015:  https://infinum.co/the-capsized-eight/top-five-android-libraries-every-android-developer-should-know-about-v2015
-Android Developer Tips: https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51
-Firebase API: https://medium.com/google-developers/why-are-firebase-apis-asynchronous-callbacks-promises-tasks-e037a6654a93
-https://android.jlelse.eu/things-i-wish-i-knew-when-i-started-building-android-sdk-libraries-dba1a524d619
-https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work?utm_source=Android+Weekly&utm_campaign=8cbf4cc857-androidweekly-297&utm_medium=email&utm_term=0_4eb677ad19-8cbf4cc857-337932037
-http://sohailaziz05.blogspot.in/2014/10/asynctask-and-context-leaking.html
-https://medium.com/groupon-eng/developing-android-studio-plugins-with-gradle-7597d8825d76
-https://medium.com/@kapil.bakshi/deep-dive-into-a-b-testing-with-firebase-remote-config-6213e95bd024
 https://developers.google.com/vision/
 https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf
 https://medium.com/mindorks/best-articles-on-android-that-we-published-in-2017-4972a2578b77
