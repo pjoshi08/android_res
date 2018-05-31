@@ -24,6 +24,12 @@
 * **[Android & Security](http://sohailaziz05.blogspot.in/2014/10/asynctask-and-context-leaking.html)**
 * **[Android Studio Plugins with Gradle](https://medium.com/groupon-eng/developing-android-studio-plugins-with-gradle-7597d8825d76)**
 * **[A/B Testing With Firebase Remote Config](https://medium.com/@kapil.bakshi/deep-dive-into-a-b-testing-with-firebase-remote-config-6213e95bd024)**
+* **[Android Jetpack: Fragments](https://www.youtube.com/watch?v=WVPH48lUzGY)**
+* **[Android Developers Youtube Channel](https://www.youtube.com/user/androiddevelopers)**
+* **[Google Developers: Material Design](https://www.youtube.com/watch?v=D7LB-QPxH9c)**
+* **[Google IO '18: Codelab](https://codelabs.developers.google.com/io2018)**
+* **[AI: Music Composition](https://www.youtube.com/watch?v=NS2eqVsnJKo)**
+* **[Dart Tutorial](https://www.youtube.com/watch?v=OLjyCy-7U2U&feature=youtu.be)**
 
 https://developers.google.com/vision/
 https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf
@@ -383,6 +389,7 @@ https://www.iconfinder.com/
 
 ## Github Repos:
 * **[Sunshine App with AAC](https://github.com/googlecodelabs/android-build-an-app-architecture-components/blob/arch-training-steps/app/src/main/java/com/example/android/sunshine/data/SunshineRepository.java)**
+* **[Google Sample: Android Jetpack best practices](https://github.com/googlesamples/android-sunflower)**
 
 https://medium.com/@akbarsha03/version-control-system-using-git-on-android-studio-a632eb00bea9 
 https://github.com/amlcurran/ShowcaseView
