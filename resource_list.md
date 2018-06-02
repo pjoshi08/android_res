@@ -30,10 +30,17 @@
 * **[Google IO '18: Codelab](https://codelabs.developers.google.com/io2018)**
 * **[AI: Music Composition](https://www.youtube.com/watch?v=NS2eqVsnJKo)**
 * **[Dart Tutorial](https://www.youtube.com/watch?v=OLjyCy-7U2U&feature=youtu.be)**
+* **[Android Developers: Search with SearchView](https://www.youtube.com/watch?v=9OWmnYPX1uc)**
+* **[Flutter: Animated Size](https://medium.com/@ibhavikmakwana/flutter-working-with-animatedsize-35253ff8f16a)**
+* **[Android Support Paging Library](https://riyaz-ali.github.io/android-support-paging.html)**
+* **[Android Jetpack: LiveData](https://www.youtube.com/watch?v=OMcDk2_4LSk&feature=youtu.be)**
+* **[Android Jetpack: Autosizing TextView](https://www.youtube.com/watch?v=JYrpEAz_A1U&feature=youtu.be)**
+* **[Android: Paging Library](https://developer.android.com/topic/libraries/architecture/paging/)**
+* **[Start Flutter](https://medium.com/@rohantaneja/learn-flutter-best-resources-18f88346ed0f)**
+* **[Android: ML Kit](https://developers.google.com/ml-kit/)**
+* **[RecyclerView: Drag & Swipe](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf)**
+* **[Android Articles 2017](https://medium.com/mindorks/best-articles-on-android-that-we-published-in-2017-4972a2578b77)**
 
-https://developers.google.com/vision/
-https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf
-https://medium.com/mindorks/best-articles-on-android-that-we-published-in-2017-4972a2578b77
 http://androidstarters.com/
 https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html
 https://codepen.io/dsenneff/pen/QajVxO
