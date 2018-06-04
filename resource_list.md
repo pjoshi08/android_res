@@ -40,12 +40,13 @@
 * **[Android: ML Kit](https://developers.google.com/ml-kit/)**
 * **[RecyclerView: Drag & Swipe](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf)**
 * **[Android Articles 2017](https://medium.com/mindorks/best-articles-on-android-that-we-published-in-2017-4972a2578b77)**
+* **[Android Studio: Releases](https://android.jlelse.eu/what-is-the-difference-between-canary-beta-rc-and-stable-releases-in-the-android-studio-bbbb77e7c3cf)**
+* **[MVVM Course](https://caster.io/courses/android-mvvm-pattern/)**
+* **[Android Starters](http://androidstarters.com/)**
+* **[Face Recognition with OpenCV](https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html)**
+* **[Hiding API Key](https://medium.com/code-better/hiding-api-keys-from-your-android-repository-b23f5598b906)**
+* **[Firebase: Phone Auth using Kotlin](https://www.youtube.com/watch?v=4YM1n0zQ17I&feature=youtu.be)**
 
-http://androidstarters.com/
-https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html
-https://codepen.io/dsenneff/pen/QajVxO
-https://medium.com/code-better/hiding-api-keys-from-your-android-repository-b23f5598b906
-https://www.youtube.com/watch?v=4YM1n0zQ17I&feature=youtu.be
 https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50
 https://android-developers.googleblog.com/2017/09/enroll-for-app-signing-in-google-play.html
 https://developer.android.com/training/articles/security-tips.html
@@ -487,4 +488,4 @@ https://github.com/yhdesai/Maker-ToolBox-Android
 
 
 ## Terms Heard/Read: 
-Retrofit, Volley, Picasso, dagger-2, RxJava, MVVM Architecture, Vector Images/Icons, Kotlin, GreenDAO, ROOM, JSON Parsing Lib(GSON, Jackson), XMPP, Java Socket for chat app, gsoup library, Glide Lib(Image Caching), OkHttp, SlimAdapter in RecyclerView, Flutter, Tensor Flow, WeakReference<>, FileObserver, Admob, Facebook Audience Network, InMobi, MoPub, Looper, ProGuard, Google Fuchsia, WebP Images, Screen lock view intent, Markdown, ItemTouchHelper, Butterknife, DataBinding, BottomSheetDialog, Handler, Fresco, Apache Cordova/Phonegap, Vysor, Prefekt, BeanShell, ViewPager Card Carousel, Leak Canary, Poly, Clean Architecture, Shared Element Transition(WebView), Vulkan Graphics API, Proguard Keep rules
+Retrofit, Volley, Picasso, dagger-2, RxJava, MVVM Architecture, Vector Images/Icons, Kotlin, GreenDAO, ROOM, JSON Parsing Lib(GSON, Jackson), XMPP, Java Socket for chat app, gsoup library, Glide Lib(Image Caching), OkHttp, SlimAdapter in RecyclerView, Flutter, Tensor Flow, WeakReference<>, FileObserver, Admob, Facebook Audience Network, InMobi, MoPub, Looper, ProGuard, Google Fuchsia, WebP Images, Screen lock view intent, Markdown, ItemTouchHelper, Butterknife, DataBinding, BottomSheetDialog, Handler, Fresco, Apache Cordova/Phonegap, Vysor, Prefekt, BeanShell, ViewPager Card Carousel, Leak Canary, Poly, Clean Architecture, Shared Element Transition(WebView), Vulkan Graphics API, Proguard Keep rules, Mockito
