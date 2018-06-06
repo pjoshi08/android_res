@@ -42,10 +42,16 @@
 * **[Android Articles 2017](https://medium.com/mindorks/best-articles-on-android-that-we-published-in-2017-4972a2578b77)**
 * **[Android Studio: Releases](https://android.jlelse.eu/what-is-the-difference-between-canary-beta-rc-and-stable-releases-in-the-android-studio-bbbb77e7c3cf)**
 * **[MVVM Course](https://caster.io/courses/android-mvvm-pattern/)**
-* **[Android Starters](http://androidstarters.com/)**
 * **[Face Recognition with OpenCV](https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html)**
 * **[Hiding API Key](https://medium.com/code-better/hiding-api-keys-from-your-android-repository-b23f5598b906)**
 * **[Firebase: Phone Auth using Kotlin](https://www.youtube.com/watch?v=4YM1n0zQ17I&feature=youtu.be)**
+* **[Kurtis Nusbaum: RxJava Part-1](https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850)**
+* **[Kurtis Nusbaum: RxJava Part-2](https://medium.com/@kurtisnusbaum/rxandroid-basics-part-2-6e877af352)**
+* **[Vogella: RxJava 2.0](http://www.vogella.com/tutorials/RxJava/article.html)**
+* **[Android: Reactive Programming](https://www.youtube.com/watch?v=PSwsBvxyY7I&feature=youtu.be)**
+* **[Top Apps](https://uxplanet.org/top-mobile-ui-engineers-and-app-developers-android-kotlin-fa14564ea812)**
+* **[Android Vidya: Firebase](https://www.youtube.com/watch?v=3kLcbWw7ptk)**
+* **[Android Tutorial](https://www.raywenderlich.com/category/android)**
 
 https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50
 https://android-developers.googleblog.com/2017/09/enroll-for-app-signing-in-google-play.html
@@ -313,7 +319,6 @@ Google Developer Expert Process: https://www.quora.com/What-does-it-take-to-be-a
 
 
 
-
 ## Google Udacity Scholarship Challenge:
 Resources:  https://docs.google.com/document/d/1NSe_7jyblSa3UYuD-cXCtXy6uqi_hXspP-NzRbq1F6E/edit 
 Git, github session recording: https://youtu.be/lXY02pZWR58
@@ -367,6 +372,7 @@ Slarck:
 https://slarck.com/WiTlpT/?k=gDyYiByc1tpKeo2Ohm9BZhJxuqXqUJVLADMmHKHG
 
 ## APIs:
+* **[Education API](https://www.programmableweb.com/category/education/api)**
 https://developer.edamam.com/edamam-nutrition-api
 Google Awareness API: https://developers.google.com/awareness/
 
@@ -398,6 +404,10 @@ https://www.iconfinder.com/
 ## Github Repos:
 * **[Sunshine App with AAC](https://github.com/googlecodelabs/android-build-an-app-architecture-components/blob/arch-training-steps/app/src/main/java/com/example/android/sunshine/data/SunshineRepository.java)**
 * **[Google Sample: Android Jetpack best practices](https://github.com/googlesamples/android-sunflower)**
+* **[Android Starters](http://androidstarters.com/)**
+* **[Android Demos](https://github.com/novoda/android-demos)**
+* **[Android Library: Markdown]()**
+* **[Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)**
 
 https://medium.com/@akbarsha03/version-control-system-using-git-on-android-studio-a632eb00bea9 
 https://github.com/amlcurran/ShowcaseView
@@ -474,6 +484,9 @@ App Ideas: https://github.com/tastejs/awesome-app-ideas
 
 ## CV/Interview:
 * **[Recursive Staircase Problem - Amazon](https://www.youtube.com/watch?v=5o-kdjv7FD0)**
+* **[Udacity Career](https://in.udacity.com/courses/career)**
+* **[Udacity Career Reources](https://career-resource-center.udacity.com/)**
+
 
 https://uxdesign.cc/applying-user-centred-design-to-a-cv-8e1e7dadddd9
 https://android.jlelse.eu/i-had-10-android-interviews-during-the-last-two-years-heres-the-questions-plus-some-lessons-i-ve-cdc583dfbc65
