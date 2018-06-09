@@ -52,14 +52,16 @@
 * **[Top Apps](https://uxplanet.org/top-mobile-ui-engineers-and-app-developers-android-kotlin-fa14564ea812)**
 * **[Android Vidya: Firebase](https://www.youtube.com/watch?v=3kLcbWw7ptk)**
 * **[Android Tutorial](https://www.raywenderlich.com/category/android)**
+* **[Logs without code](https://android.jlelse.eu/add-logs-without-using-code-bd49fe9202ca)**
+* **[Android Jetpack: EmojiCompat](https://www.youtube.com/watch?v=sYGKUtM2ga8&feature=youtu.be)**
+* **[Project Capillary](https://android-developers.googleblog.com/2018/06/project-capillary-end-to-end-encryption.html?linkId=52612519&m=1)**
+* **[Android Transition](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50)**
+* **[Google Play App Signing](https://android-developers.googleblog.com/2017/09/enroll-for-app-signing-in-google-play.html)**
+* **[Security Tips](https://developer.android.com/training/articles/security-tips.html)**
+* **[Custom ActionBar](https://medium.com/mindorks/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea)**
+* **[Writing Modular](https://medium.com/mindorks/writing-a-modular-project-on-android-304f3b09cb37)**
+* **[Android Development Tools](https://medium.com/mindorks/android-development-useful-tools-fd73283e82e3)**
 
-https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50
-https://android-developers.googleblog.com/2017/09/enroll-for-app-signing-in-google-play.html
-https://developer.android.com/training/articles/security-tips.html
-https://medium.com/mindorks/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea
-https://medium.com/mindorks/writing-a-modular-project-on-android-304f3b09cb37
-http://rogerdudler.github.io/git-guide/
-https://medium.com/mindorks/android-development-useful-tools-fd73283e82e3
 https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382
 https://digitalsynopsis.com/design/loading-animations-preloader-gifs-ui-ux-effects/
 https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329
@@ -408,6 +410,7 @@ https://www.iconfinder.com/
 * **[Android Demos](https://github.com/novoda/android-demos)**
 * **[Android Library: Markdown]()**
 * **[Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)**
+* **[Git Guide](http://rogerdudler.github.io/git-guide/)**
 
 https://medium.com/@akbarsha03/version-control-system-using-git-on-android-studio-a632eb00bea9 
 https://github.com/amlcurran/ShowcaseView
