@@ -61,13 +61,14 @@
 * **[Custom ActionBar](https://medium.com/mindorks/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea)**
 * **[Writing Modular](https://medium.com/mindorks/writing-a-modular-project-on-android-304f3b09cb37)**
 * **[Android Development Tools](https://medium.com/mindorks/android-development-useful-tools-fd73283e82e3)**
+* **[TensorFlow Basics](https://www.youtube.com/watch?v=F_uuqfgdZZw&feature=youtu.be)**
+* **[Reactive Programming](https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382)**
+* **[Loading Animations](https://digitalsynopsis.com/design/loading-animations-preloader-gifs-ui-ux-effects/)**
+* **[Material Design Don'ts](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329)**
+* **[App Designs](https://www.creativebloq.com/app-design/beautiful-android-app-ui-designs-11121271)**
+* **[Getting Started with Room](http://thetechnocafe.com/how-to-use-room-in-android-all-you-need-to-know-to-get-started/)**
+* **[Flutter Beta 1](https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0)**
 
-https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382
-https://digitalsynopsis.com/design/loading-animations-preloader-gifs-ui-ux-effects/
-https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329
-https://www.creativebloq.com/app-design/beautiful-android-app-ui-designs-11121271
-http://thetechnocafe.com/how-to-use-room-in-android-all-you-need-to-know-to-get-started/
-https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0
 https://www.raywenderlich.com/109843/common-design-patterns-for-android
 https://developer.android.com/guide/components/activities/tasks-and-back-stack.html
 https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en
@@ -411,6 +412,9 @@ https://www.iconfinder.com/
 * **[Android Library: Markdown]()**
 * **[Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)**
 * **[Git Guide](http://rogerdudler.github.io/git-guide/)**
+* **[Carousel via RecyclerView](https://github.com/Azoft/CarouselLayoutManager)**
+* **[Android: Useful Tools](https://github.com/popnfresh234/udacity_android_resources)**
+* **[RecyclerView: Scrollable list](https://github.com/yarolegovich/DiscreteScrollView)**
 
 https://medium.com/@akbarsha03/version-control-system-using-git-on-android-studio-a632eb00bea9 
 https://github.com/amlcurran/ShowcaseView
