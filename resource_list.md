@@ -68,15 +68,18 @@
 * **[App Designs](https://www.creativebloq.com/app-design/beautiful-android-app-ui-designs-11121271)**
 * **[Getting Started with Room](http://thetechnocafe.com/how-to-use-room-in-android-all-you-need-to-know-to-get-started/)**
 * **[Flutter Beta 1](https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0)**
+* **[Interaction with Google Assistant](https://speakerdeck.com/bhatnagargaurav83/developing-integrations-with-google-assistant)**
+* **[Android Clean Architecture](https://medium.com/exploring-android/learn-clean-architecture-for-android-at-caster-io-8f1513621c30)**
+* **[Dagger2](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)**
+* **[Android Design Patterns](https://www.raywenderlich.com/109843/common-design-patterns-for-android)**
+* **[Tasks & Back Stack](https://developer.android.com/guide/components/activities/tasks-and-back-stack.html)**
+* **[Activity LaunchModes](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)**
+* **[Heterogenous Layouts inside RecyclerView](https://guides.codepath.com/android/Heterogenous-Layouts-inside-RecyclerView)**
+* **[Search Interface](https://developer.android.com/guide/topics/search/search-dialog.html)**
+* **[Activity Element](https://developer.android.com/guide/topics/manifest/activity-element.html)**
+* **[Programmatically take screenshot](https://stackoverflow.com/questions/2661536/how-to-programmatically-take-a-screenshot-in-android)**
+* **[Progress Dialog](https://stackoverflow.com/questions/3028306/download-a-file-with-android-and-showing-the-progress-in-a-progressdialog)**
 
-https://www.raywenderlich.com/109843/common-design-patterns-for-android
-https://developer.android.com/guide/components/activities/tasks-and-back-stack.html
-https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en
-https://anddevindiascholars.slack.com/archives/C9A7UB6LV/p1519828525000470?thread_ts=1519828525.000470&cid=C9A7UB6LV
-https://developer.android.com/guide/topics/search/search-dialog.html
-https://developer.android.com/guide/topics/manifest/activity-element.html
-https://stackoverflow.com/questions/2661536/how-to-programmatically-take-a-screenshot-in-android
-https://stackoverflow.com/questions/3028306/download-a-file-with-android-and-showing-the-progress-in-a-progressdialog
 https://developer.android.com/studio/build/optimize-your-build.html
 https://anddevindiascholars.slack.com/archives/C99E84UNN/p1520058526000023
 https://medium.com/@pratikbutani/google-drive-collection-of-useful-links-8b5b35759e2
@@ -415,6 +418,7 @@ https://www.iconfinder.com/
 * **[Carousel via RecyclerView](https://github.com/Azoft/CarouselLayoutManager)**
 * **[Android: Useful Tools](https://github.com/popnfresh234/udacity_android_resources)**
 * **[RecyclerView: Scrollable list](https://github.com/yarolegovich/DiscreteScrollView)**
+* **[SaveState](https://github.com/PrototypeZ/SaveState)**
 
 https://medium.com/@akbarsha03/version-control-system-using-git-on-android-studio-a632eb00bea9 
 https://github.com/amlcurran/ShowcaseView
